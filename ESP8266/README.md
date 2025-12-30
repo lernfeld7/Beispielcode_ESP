@@ -12,3 +12,7 @@ Diese Code-Beispiele können in eigene Projekte mit dem **NodeMCU 1.0** eingebau
 - [NeoPixel-LEDs](/ESP8266/NeoPixelLED/)
 - [Temperatur- und Luftfeuchtesensor](/ESP8266/DHT22/) DHT22
 - [Serielle Kommunikation](/ESP8266/Serial/) vom ESP8266 zum Arduino
+
+## Weiterführende Beispiele
+
+- [Konfigurations-Webseite für WLAN-Einstellungen im EEPROM-Speicher](/ESP8266/EEPROM_WIFI/)
